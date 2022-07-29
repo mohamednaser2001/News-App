@@ -11,30 +11,28 @@
 
 # Screenshots
 
+### **Sports Screen**
+<img src="https://user-images.githubusercontent.com/75574674/181679257-97df67e0-164f-4991-bff1-a5d386055ee5.png" width="250" height="500" />
       
-     
-![Screenshot_20220729_013716](https://user-images.githubusercontent.com/75574674/181679257-97df67e0-164f-4991-bff1-a5d386055ee5.png)
+### **Business Screen**
+
+ <img src="https://user-images.githubusercontent.com/75574674/181679424-e8361eb1-6898-48d6-bc4a-91bd6dad5ac9.png" width="250" height="500" />
     
     
+  ### **Science Screen**
+
+ <img src="https://user-images.githubusercontent.com/75574674/181679585-2e480389-097a-41fa-a078-4dfd1b43dc88.png" width="250" height="500" />
     
     
 
-![Screenshot_20220729_013846](https://user-images.githubusercontent.com/75574674/181679424-e8361eb1-6898-48d6-bc4a-91bd6dad5ac9.png)
-    
-    
-    
-Science Screen
-![Screenshot_20220729_013933](https://user-images.githubusercontent.com/75574674/181679585-2e480389-097a-41fa-a078-4dfd1b43dc88.png)
-    
-    
-    
-![Screenshot_20220729_014139](https://user-images.githubusercontent.com/75574674/181679625-9ee2355b-77c9-4224-98e0-0c5170b93f1f.png)
-    
-    
 
     
+    
+### **Search Screen**
 
-![Screenshot_20220729_014216](https://user-images.githubusercontent.com/75574674/181679646-b95eebf1-3d24-4b06-8816-fd87d56015df.png)
+ <img src="https://user-images.githubusercontent.com/75574674/181679625-9ee2355b-77c9-4224-98e0-0c5170b93f1f.png" width="250" height="500" />
 
 
+### **Web View**
 
+<img src="https://user-images.githubusercontent.com/75574674/181679646-b95eebf1-3d24-4b06-8816-fd87d56015df.png" width="250" height="500" />
